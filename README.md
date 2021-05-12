@@ -1,16 +1,12 @@
 # xylophone_flutter
 
-A new Flutter application.
+A Flutter application which play sounds like a Xylophone app.
+Xylophone - produce diffrent Sound nodes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/69413218/118004521-28a77a80-b367-11eb-8f98-13d9d41f648c.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2021-05-12 at 8 36 34 PM](https://user-images.githubusercontent.com/69413218/118004638-4248c200-b367-11eb-9dbf-986cadc67f60.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
